@@ -1,14 +1,14 @@
 an intro to cloud computing
 # ☁️ Cloud Computing
 
-## 🔹 Definition
+##  Definition
 Cloud computing is the **delivery of computing services** (like servers, storage, databases, networking, software, and AI) **over the internet (“the cloud”)** instead of running them on your own physical computer or data center.  
 
 You **pay only for what you use** (like electricity or water).  
 
 ---
 
-## 🔹 Key Characteristics
+## Characteristics
 - ⚡ **On-demand self-service** – Get resources whenever you need.  
 - 🌍 **Broad network access** – Access from anywhere via the internet.  
 - 🏗 **Resource pooling** – Shared infrastructure for multiple users.  
@@ -17,7 +17,7 @@ You **pay only for what you use** (like electricity or water).
 
 ---
 
-## 🔹 Types of Cloud Services (Service Models)
+##  Types of Cloud Services (Service Models)
 ### 1. IaaS (Infrastructure as a Service)
 - Provides **virtual machines, storage, networking**  
 - Examples: **AWS EC2, Google Compute Engine, Azure VMs**  
@@ -35,7 +35,7 @@ You **pay only for what you use** (like electricity or water).
 
 ---
 
-## 🔹 Cloud Deployment Models
+##  Cloud Deployment Models
 - 🌐 **Public Cloud** – Services available to everyone (AWS, Azure, GCP)  
 - 🏢 **Private Cloud** – Dedicated cloud for one organization  
 - 🔀 **Hybrid Cloud** – Combination of public + private  
